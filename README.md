@@ -101,6 +101,7 @@ You can also use **VS Code Live Server** for a better development experience.
 
 ## 📸 Screenshots
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37b9ecbe-8ce9-44b6-ad83-fd551f67fbb6" />
 
 
 ## 🌱 Future Improvements
